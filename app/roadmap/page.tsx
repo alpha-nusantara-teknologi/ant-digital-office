@@ -1,0 +1,2 @@
+import {AppShell} from '../../components/app-shell';
+export default function Page(){return <AppShell><div className="top"><div><div className="eyebrow">ANT Digital Office</div><h1 className="title">Roadmap</h1><div className="subtitle">Module foundation — siap dikembangkan bertahap.</div></div></div><div className="card"><h2>Roadmap Workspace</h2><p className="subtitle">Modul ini sudah memiliki route dasar. Integrasi database dan fitur bisnis akan ditambahkan setelah foundation lulus testing.</p></div></AppShell>}
