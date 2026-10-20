@@ -14,3 +14,4 @@ Push this repository to GitHub, then import the repository into Vercel. Add the 
 
 ## Scope
 This package is the foundation/testing build: navigation, dashboard shell, module routes, responsive UI, and Supabase client placeholder. Business workflows and authentication are intentionally added in controlled stages after the foundation passes build/deployment testing.
+ANT Digital Office - deployment trigger.
